@@ -9,3 +9,7 @@ print(s[~7:-4])
 print(s.count('a'))
 print(s.index('a'))
 print(s.rindex('a'))
+
+print('============')
+s1 = 'asffhids\\\nqedfjdin\SD\\sf\nwerg\n'
+print(s1)

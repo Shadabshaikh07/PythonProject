@@ -55,4 +55,4 @@ print('type of s: {}'.format(type(s)))
 print('--------------------')
 
 s1 = '101'
-print(s1)
+print (s1)
