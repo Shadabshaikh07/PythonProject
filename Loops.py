@@ -2,7 +2,6 @@ for i in range(8):
     print(i)
 
 print('-------------')
-x=10
 for i in range(8):
     if i==3:
         continue
