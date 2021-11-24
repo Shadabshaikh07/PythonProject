@@ -8,7 +8,7 @@ with open(file_path, 'r') as my_file:
         i+=1
 
 
-# file_path = 'test.txt'
+# file_path = 'test.csv.txt'
 
 # my_file = open(file_path, 'r')
 # lines = my_file.readlines()
