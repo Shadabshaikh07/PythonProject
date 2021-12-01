@@ -35,6 +35,7 @@ print('--------------------')
 print('---------')
 
 import numpy as np
+
 s_rows = np.sum(l2d, axis=1)
 print(s_rows)
 
